@@ -19,7 +19,7 @@ header h1{
 text-align: center;
 display: block;
 float: left;
-margin-left: 490px;
+margin-left: 600px;
 margin-top: 100px;
 color: aliceblue;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -30,8 +30,8 @@ main{
     background-color: aliceblue;
     margin-top: 50px;
     width: 90%;
-    height: 100px;
-    border-radius: 10px;
+    height: 200px;
+    border-radius: 9px;
     margin-left: 5%;
     float: left;
     -webkit-box-shadow: 25px 7px 15px -1px rgba(0,0,0,0.75);
@@ -40,8 +40,13 @@ main{
 }
 
 main h2{
+text-align: center;
 display: block;
 margin-left: 10px;
+}
+
+.ponto{
+color: aliceblue;
 }
 
 main p{
