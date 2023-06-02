@@ -19,7 +19,7 @@ header h1{
 text-align: center;
 display: block;
 float: left;
-margin-left: 600px;
+margin-left: 45%;
 margin-top: 100px;
 color: aliceblue;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -27,30 +27,144 @@ text-shadow: 6px 4px black;
 }
 
 main{
-    background-color: aliceblue;
+    background-color: rgb(240, 248, 255);
     margin-top: 50px;
     width: 90%;
-    height: 200px;
+    height: 300px;
+    margin-bottom: 20px;
     border-radius: 9px;
     margin-left: 5%;
     float: left;
-    -webkit-box-shadow: 25px 7px 15px -1px rgba(0,0,0,0.75);
-    -moz-box-shadow: 25px 7px 15px -1px rgba(0,0,0,0.75);
-    box-shadow: 25px 7px 15px -1px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 15px 43px 20px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 15px 43px 20px rgba(0,0,0,0.75);
+    box-shadow: 10px 15px 43px 20px rgba(0,0,0,0.75);
 }
 
 main h2{
-text-align: center;
-display: block;
-margin-left: 10px;
-}
-
-.ponto{
-color: aliceblue;
+    text-align: center;
+    display: block;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
 }
 
 main p{
     margin-left: 10px;
     display: block;
-line-height: 20px;
+    line-height: 20px;
+}
+
+footer .panda {
+    width: 25%;
+    height: 430px;
+    display: block;
+    float: left;
+    background-color: rgb(199, 206, 212);
+    -webkit-box-shadow: 10px 15px 43px 20px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 15px 43px 20px rgba(0,0,0,0.75);
+    box-shadow: 10px 15px 43px 20px rgba(0,0,0,0.75);
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 6%;
+    margin-bottom: 40px;
+
+}
+
+footer .panda h4{
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+footer .panda p{
+    text-align: center;
+}
+
+footer .panda a{
+text-align: center;
+display: block ;
+}
+
+footer .panda img{
+    display: block;
+    margin-left:60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer .vaquinha {
+    width: 25%;
+    height: 430px;
+    display: block;
+    float: left;
+    background-color: rgb(199, 206, 212);
+    -webkit-box-shadow: 10px 15px 43px 20px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 15px 43px 20px rgba(0,0,0,0.75);
+    box-shadow: 10px 15px 43px 20px rgba(0,0,0,0.75);
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 6%;
+    margin-bottom: 40px;
+
+}
+
+footer .vaquinha h4{
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+footer .vaquinha p{
+    text-align: center;
+}
+
+footer .vaquinha a{
+text-align: center;
+display: block ;
+}
+
+footer .vaquinha img{
+    display: block;
+    margin-left:40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+footer .que {
+    width: 25%;
+    height: 430px;
+    display: block;
+    float: left;
+    background-color: rgb(199, 206, 212);
+    -webkit-box-shadow: 10px 15px 43px 20px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 15px 43px 20px rgba(0,0,0,0.75);
+    box-shadow: 10px 15px 43px 20px rgba(0,0,0,0.75);
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 6%;
+    margin-bottom: 40px;
+
+}
+
+footer .que h4{
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+footer .que p{
+    text-align: center;
+}
+
+footer .que a{
+text-align: center;
+display: block ;
+}
+
+footer .que img{
+    display: block;
+    margin-left:35px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
