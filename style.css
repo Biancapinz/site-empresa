@@ -168,3 +168,8 @@ footer .que img{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+ul{
+    margin-top:200px ;
+    justify-content: space-between;
+}
