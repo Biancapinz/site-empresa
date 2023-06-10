@@ -6,7 +6,6 @@ body{
     background-color: rgb(59, 122, 59);
 }
 header{
-    height: 200px;
     width: 100%;
     float: left;
     display: block;
@@ -17,9 +16,6 @@ header{
 
 header h1{
 text-align: center;
-display: block;
-float: left;
-margin-left: 45%;
 margin-top: 100px;
 color: aliceblue;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -169,7 +165,3 @@ footer .que img{
     margin-bottom: 20px;
 }
 
-ul{
-    margin-top:200px ;
-    justify-content: space-between;
-}
